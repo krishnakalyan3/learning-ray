@@ -5,10 +5,17 @@ In this interview, you’ll talk with one of our Member of Technical Staff, Fiel
 ```
 
 ## Introduction to Ray and Basic Concepts
+TODO: Read Chapter 1-3
+https://docs.ray.io/en/latest/ray-core/walkthrough.html
+
 
 ## Scaling Single-Threaded Algorithms
+TODO: Read Chapter 6-7
+
 
 ## Best Practices and Advanced Concepts
+TODO: Read Chapter 11
+https://docs.ray.io/en/latest/ray-core/tips-for-first-time.html
 
 ## Machine Learning with Ray
 
@@ -24,4 +31,5 @@ Summary
 Links:
 - [2023 Ray Summit](https://www.youtube.com/watch?v=ijuTaOEySVA&list=PLzTswPQNepXm75Gw3wgrQTtpSYQAwQHpM)
 - [Lessons From Fine-Tuning Llama-2](https://www.youtube.com/watch?v=_OIq-9dKkbI)
-- [Learning Ray]()
+- [Learning Ray](https://github.com/krishnakalyan3/learning-ray/blob/main/learning-ray.pdf)
+- [Documentation](https://docs.ray.io/en/latest/)
