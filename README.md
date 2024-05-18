@@ -5,7 +5,7 @@ In this interview, you’ll talk with one of our Member of Technical Staff, Fiel
 ```
 
 Summary 
-- [] Install Ray and run basic examples.
+- [x] Install Ray and run basic examples.
 - [] Understand Ray’s core concepts (Tasks and Actors).
 - [] Write and explain a single-threaded algorithm.
 - [] Parallelize the algorithm using Ray.
