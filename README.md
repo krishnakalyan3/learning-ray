@@ -8,6 +8,9 @@ In this interview, you’ll talk with one of our Member of Technical Staff, Fiel
 TODO: Read Chapter 1-3
 https://docs.ray.io/en/latest/ray-core/walkthrough.html
 
+```
+conda activate ray
+```
 
 ## Scaling Single-Threaded Algorithms
 TODO: Read Chapter 6-7
